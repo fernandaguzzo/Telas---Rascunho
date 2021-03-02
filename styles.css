@@ -1,0 +1,30 @@
+body {
+    background-color:#A9A9A9;
+}
+
+body.bg_filmes {
+    background-color: #A9A9A9;
+   background-image: url();
+   background-size: cover;
+   background-repeat: no-repeat;
+
+}
+
+.container-fluid {
+    
+}
+
+header {
+    padding: 50px;
+
+}
+
+#caixa_login {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 30px;
+    border-radius: 10px;
+    
+}
+#input_email {
+    background: #A9A9A9;
+}
